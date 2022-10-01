@@ -10,7 +10,8 @@
 </head>
 <body>
 
-    <h1>Edite aqui!</h1>
+    <h1>Editado!</h1>
+    <p> Teste de paragrafo</p>
     
     <script src="script.js"></script>
 
